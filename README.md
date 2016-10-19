@@ -33,7 +33,7 @@ the preview it looks like one line
 
 _Make me italicized_
 
-Turn this entire line of text into a link that goes to hstat.org
+[Turn this entire line of text into a link that goes to hstat.org](www.hstat.org)
 
 Turn this entire line of text into code
 
