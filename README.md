@@ -29,9 +29,9 @@ I want this to be a block of text
 that takes up three lines but on
 the preview it looks like one line
 
-Make me bold
+**Make me bold**
 
-Make me italicized
+_Make me italicized_
 
 Turn this entire line of text into a link that goes to hstat.org
 
